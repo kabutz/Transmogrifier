@@ -1,0 +1,19 @@
+0. Who is Heinz Kabutz?
+    Not Ketchup
+    Not baked beans
+    Not a community in Israel
+    Island of Crete
+    36ºC
+    Java Specialists' Newsletter
+    www.javaspecialists.eu
+1. Blocking, single-threaded server √
+    Design patterns √
+2. Threaded blocking server √
+3. Blocking server using executor service √
+  3.1. Fixed vs. Cached √
+  3.2. Job Queue √
+  3.3. Rejected Task Policies √
+4. Blocking Java NIO Server √
+5. Simple polling non-blocking NIO Server √
+6. Single-threaded NIO Server with Selector √
+7. NIO Server with Selector with pool for tasks √
